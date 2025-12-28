@@ -15,6 +15,8 @@ Understanding churn drivers helps banks take proactive retention actions, improv
 
 ## Dataset
 
+📂 [Bank Customer Dataset](Bank_Customer_Data.csv)
+
 - **Source:** Public Bank Customer Churn Dataset (Kaggle)
 - **Size:** 10,000 rows, 12 columns
 - **Time Period:** Not time-series based (customer snapshot data)
